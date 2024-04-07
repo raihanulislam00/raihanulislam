@@ -344,6 +344,18 @@ const blogSection = {
         "Primal proficiency"
     },
     {
+      url: "https://raihanulislamnahid.github.io/Competitive-Programming-Beginner-Topics-Part-3/",
+      title: "Competitive Programming Beginner Topics Part 3",
+      description:
+        "2P or not to 2P, No wait isn't this just bs"
+    },
+    {
+      url: "https://raihanulislamnahid.github.io/Competitive-Programming-Beginner-Topics-Part-4/",
+      title: "Competitive Programming Beginner Topics Part 4",
+      description:
+        "Boohoo ~ It's dp time"
+    },
+    {
       url: "https://raihanulislamnahid.github.io/Elementary-Number-Theory/",
       title: "Elementary Number Theory",
       description:
