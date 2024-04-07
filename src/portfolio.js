@@ -295,6 +295,19 @@ const achievementSection = {
       ]
     },
     {
+      title: "Problem Solving (HackerRank)",
+      subtitle:
+        "It covers topics of Data Structures (such as HashMaps, Stacks and Queues) and Algorithms (such as Optimal Solutions).",
+      image: require("./assets/images/hack1.png"),
+      imageAlt: "Google Assistant Action Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.hackerrank.com/certificates/a158f7cd12a9"
+        }
+      ]
+    },
+    {
       title: "Beta Microsoft Student Learn Ambassador",
       subtitle: "Selected for Beta Microsoft student Ambassador",
       image: require("./assets/images/mlsa.png"),
