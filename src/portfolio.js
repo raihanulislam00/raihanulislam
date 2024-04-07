@@ -356,6 +356,12 @@ const blogSection = {
         "Boohoo ~ It's dp time"
     },
     {
+      url: "https://raihanulislamnahid.github.io/Competitive-Programming-Beginner-Topics-Part-5/",
+      title: "Competitive Programming Beginner Topics Part 5",
+      description:
+        "Do you understand the graphity of this situation"
+    },
+    {
       url: "https://raihanulislamnahid.github.io/Elementary-Number-Theory/",
       title: "Elementary Number Theory",
       description:
