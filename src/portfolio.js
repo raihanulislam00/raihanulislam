@@ -319,6 +319,18 @@ const blogSection = {
   displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
+      url: "https://raihanulislamnahid.github.io/competitive-programming-Beginner-Topics/",
+      title: "Competitive Programming Beginner Topics Part 1",
+      description:
+        "Greed is good,sort of"
+    },
+    {
+      url: "https://raihanulislamnahid.github.io/Competitive-Programming-Beginner-Topics-Part-2/",
+      title: "Competitive Programming Beginner Topics Part 2",
+      description:
+        "Primal proficiency"
+    },
+    {
       url: "https://raihanulislamnahid.github.io/Elementary-Number-Theory/",
       title: "Elementary Number Theory",
       description:
