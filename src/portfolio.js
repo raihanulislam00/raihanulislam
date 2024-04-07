@@ -234,7 +234,7 @@ const problemSolving = {
       footerLink: [
         {
           name: "pi_3_14159265",
-          url: ""
+          url: "https://www.codechef.com/users/pi_3_14159265"
         }
       ]
     },
@@ -244,7 +244,7 @@ const problemSolving = {
       footerLink: [
         {
           name: "Roll_Num_44",
-          url: ""
+          url: "https://atcoder.jp/users/Roll_Num_44"
         }
       ]
     },
@@ -254,7 +254,7 @@ const problemSolving = {
       footerLink: [
         {
           name: "Roll_Num_44",
-          url: ""
+          url: "https://leetcode.com/Roll_Num_44/"
         }
       ]
     }
