@@ -257,6 +257,16 @@ const problemSolving = {
           url: "https://leetcode.com/Roll_Num_44/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/leet.png"),
+      projectName: "TopCoder",
+      footerLink: [
+        {
+          name: "Raihan12s",
+          url: "https://profiles.topcoder.com/Raihan12s"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
