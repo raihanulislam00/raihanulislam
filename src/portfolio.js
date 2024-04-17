@@ -259,7 +259,7 @@ const problemSolving = {
       ]
     },
     {
-      image: require("./assets/images/leet.png"),
+      image: require("./assets/images/topcoder.png"),
       projectName: "TopCoder",
       footerLink: [
         {
