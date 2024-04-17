@@ -233,8 +233,8 @@ const problemSolving = {
       projectName: "Codechef",
       footerLink: [
         {
-          name: "pi_3_14159265",
-          url: "https://www.codechef.com/users/pi_3_14159265"
+          name: "roll_num_44",
+          url: "https://www.codechef.com/users/roll_num_44"
         }
       ]
     },
