@@ -24,7 +24,7 @@ const greeting = {
   title: "Hi, I'm Raihanul Islam a.k.a. Nahid",
   subTitle:
     "Junior Software Engineer | Problem Slover At Codeforces,CodeChef, Atcoder .",
-  resumeLink: "https://github.com/RaihanulIslamNahid/raihanulislam/blob/main/src/assets/images/cv.pdf", // Set to empty to hide the button
+  //resumeLink: "https://github.com/RaihanulIslamNahid/raihanulislam/blob/main/src/assets/images/cv.pdf", // Set to empty to hide the button
   displayGreeting: true // 
 };
 
