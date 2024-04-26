@@ -329,7 +329,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "Microsoft Learn Student Ambassadors Cloud Skills Challenge Event Host",
+      title: "Microsoft Cloud Skills Challenge Host ",
       subtitle: "The Microsoft Learn Student Ambassadors Cloud Skills Challenge Event Host badge recognizes Student Ambassadors who organize events using Microsoft Learn content, fostering community skill-building and opportunities.",
       image: require("./assets/images/MCCC.png"),
       imageAlt: "PWA Logo",
