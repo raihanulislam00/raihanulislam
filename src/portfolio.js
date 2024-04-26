@@ -331,7 +331,7 @@ const achievementSection = {
     {
       title: "Microsoft Learn Student Ambassadors Cloud Skills Challenge Event Host",
       subtitle: "The Microsoft Learn Student Ambassadors Cloud Skills Challenge Event Host badge is issued to Student Ambassadors who host a Microsoft Learn Cloud Skills Challenge to skill participants on Microsoft products and technologies via a gamified experience utilizing Microsoft Learn content. Student Ambassadors who host a Cloud Skills Challenge demonstrate a desire help their local and online communities build skills that open doors and spark possibility.",
-      image: require("./assets/images/mlsa.png"),
+      image: require("./assets/images/MCCC.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", 
