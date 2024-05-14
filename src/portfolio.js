@@ -39,7 +39,7 @@ const socialMediaLinks = {
   discord: "https://discord.com/users/1151562888931192832",
   twitter: "https://twitter.com/raihanulislam00",
   spotify:
-    "https://open.spotify.com/user/31jehclsczticx43fawhfy6wmlva?si=921b99bd0d284842",
+    "https://open.spotify.com/user/31um5chgzfovahugm5vfqsbfjvri",
   blog: "https://raihanulislamnahid.github.io/home",
   
   // Instagram, Twitter and Kaggle are also supported in the links!
