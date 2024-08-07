@@ -224,7 +224,7 @@ const problemSolving = {
       footerLink: [
         {
           name: "Roll_Num_44",
-          url: ""
+          url: "https://codeforces.com/profile/Roll_Num_44"
         }
       ]
     },
@@ -601,7 +601,7 @@ const socialMediaConnections = {
   projects: [
     {
       image: require("./assets/images/linek.png"),
-      projectName: "5000+ Connections on LinkedIn",
+      projectName: "500+ Connections on LinkedIn",
       footerLink: [
         {
           name: "Let's Connect",
@@ -612,7 +612,7 @@ const socialMediaConnections = {
     },
     {
       image: require("./assets/images/faceb.png"),
-      projectName: "8000+ Connections on Facebook",
+      projectName: "2000+ Connections on Facebook",
       footerLink: [
         {
           name: "Profile",
