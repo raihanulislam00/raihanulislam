@@ -31,7 +31,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/RaihanulIslamNahid",
+  github: "https://github.com/raihanulislam00",
   linkedin: "https://www.linkedin.com/in/raihanulislamnahid/",
   gmail: "raihanulislamnahid22@gmail.com",
   facebook: "https://www.facebook.com/raihanulislamnahid44",
@@ -40,7 +40,7 @@ const socialMediaLinks = {
   twitter: "https://twitter.com/raihanulislam00",
   spotify:
     "https://open.spotify.com/user/31um5chgzfovahugm5vfqsbfjvri",
-  blog: "https://raihanulislamnahid.github.io/home",
+  blog: "https://raihanulislam00.github.io/home",
   
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
