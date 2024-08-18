@@ -46,7 +46,7 @@ function Header() {
         </label>
         <ul className={isDark ? "dark-menu menu" : "menu"}>
           <li>
-            <a href="https://raihanulislamnahid.github.io/home" target="_blank">
+            <a href="https://raihanulislam00.github.io/home" target="_blank">
               Blog
             </a>
           </li>
