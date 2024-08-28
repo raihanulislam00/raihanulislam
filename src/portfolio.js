@@ -160,6 +160,13 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Data Science & Analytics Intern",
+      company: "Zidio Development",
+      companylogo: require("./assets/images/zidio.jpg"),
+      date: "August 2024 – Present",
+      desc: ""
+    },
+    {
       role: "Student Ambassadors",
       company: "Microsoft",
       companylogo: require("./assets/images/mlsa.png"),
