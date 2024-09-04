@@ -424,6 +424,19 @@ const realBigProjects = {
   projects: [
     {
       image: require("./assets/images/code_library.png"),
+      projectName: "Normal CSE Toolbox",
+      projectDesc:
+        "The "Normal CSE Toolbox" is a web-based tool developed by Raihanul Islam, designed to assist Computer Science and Engineering (CSE) students with various tasks. It provides utilities for Base64 Encode/Decode, Random Number,Compiler and other essential CSE topics, offering an accessible resource for students to enhance their learning.",
+      footerLink: [
+        {
+          name: "Wabsite Version",
+          url: "https://raihanulislam00.github.io/NormalCSEToolbox/"
+        },
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/code_library.png"),
       projectName: "Sailor",
       projectDesc:
         "---",
