@@ -425,8 +425,7 @@ const realBigProjects = {
     {
       image: require("./assets/images/code_library.png"),
       projectName: "Normal CSE Toolbox",
-      projectDesc: "The 'Normal CSE Toolbox' offers tools for Compiler, Encoding, Cheat Sheet, and Random Number, aiding CSE students' learning."
-,
+      projectDesc: "The 'Normal CSE Toolbox' offers tools for Compiler, Encoding, Cheat Sheet, and Random Number, aiding CSE students' learning.",
       footerLink: [
         {
           name: "Wabsite Version",
