@@ -326,7 +326,7 @@ const achievementSection = {
     },
     {
       title: "Beta Microsoft Student Learn Ambassador",
-      subtitle: "Selected for Beta Microsoft student Ambassador",
+      subtitle: "Selected as a Beta Microsoft Student Ambassador, fostering tech skills and leadership.",
       image: require("./assets/images/mlsa.png"),
       imageAlt: "PWA Logo",
       footerLink: [
@@ -337,7 +337,7 @@ const achievementSection = {
     },
     {
       title: "Microsoft Cloud Skills Challenge Host ",
-      subtitle: "The Microsoft Learn Student Ambassadors Cloud Skills Challenge Event Host badge recognizes Student Ambassadors who organize events using Microsoft Learn content, fostering community skill-building and opportunities.",
+      subtitle: "The badge honors Student Ambassadors who host Microsoft Learn events, fostering skill-building and community growth.",
       image: require("./assets/images/MCCC.png"),
       imageAlt: "PWA Logo",
       footerLink: [
@@ -424,9 +424,22 @@ const realBigProjects = {
   projects: [
     {
       image: require("./assets/images/code_library.png"),
+      projectName: "Normal CSE Toolbox",
+      projectDesc: "The 'Normal CSE Toolbox' offers tools for Compiler, Encoding, Cheat Sheet, and Random Number, aiding CSE students' learning."
+,
+      footerLink: [
+        {
+          name: "Wabsite Version",
+          url: "https://raihanulislam00.github.io/NormalCSEToolbox/"
+        },
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/code_library.png"),
       projectName: "Sailor",
       projectDesc:
-        "---",
+        "'Sailor' is a creative website offering interactive games, virtual explorations, and engaging activities designed for entertainment and imaginative experiences.",
       footerLink: [
         {
           name: "Wabsite Version",
