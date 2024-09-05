@@ -1,7 +1,3 @@
-/* Change this file to get your personal Portfolio */
-
-// To change portfolio colors globally go to the  _globalColor.scss file
-
 import emoji from "react-easy-emoji";
 import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
 
@@ -10,13 +6,11 @@ import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your
 const splashScreen = {
   enabled: true, // set false to disable splash screen
   animation: splashAnimation,
-  duration: 2000 // Set animation duration as per your animation
+  duration: 2000 
 };
 
-// Summary And Greeting Section
-
 const illustration = {
-  animated: true // Set to false to use static SVG
+  animated: true 
 };
 
 const greeting = {
@@ -24,8 +18,8 @@ const greeting = {
   title: "Hi, I'm Raihanul Islam a.k.a. Nahid",
   subTitle:
     "Junior Software Engineer | Problem Slover At Codeforces,CodeChef, Atcoder .",
-  //resumeLink: "https://github.com/RaihanulIslamNahid/raihanulislam/blob/main/src/assets/images/cv.pdf", // Set to empty to hide the button
-  displayGreeting: true // 
+ // resumeLink: "https://github.com/RaihanulIslamNahid/raihanulislam/blob/main/src/assets/images/cv.pdf", // Set to empty to hide the button
+  displayGreeting: true 
 };
 
 // Social Media Links
@@ -212,7 +206,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Thesis",
-          url: "https://github.com/ShahjalalShohag/Undergrad-Thesis"
+          url: ""
         }
         //  you can add extra buttons here.
       ]
@@ -227,7 +221,9 @@ const problemSolving = {
   projects: [
     {
       image: require("./assets/images/cf.png"),
-      projectName: "Codeforces",
+      projectName: "Green/Pupil",
+      projectDesc:
+        "Highest Rating: 1319,  Top 33.0 percent among 600,000+ users",
       footerLink: [
         {
           name: "Roll_Num_44",
@@ -237,7 +233,9 @@ const problemSolving = {
     },
     {
       image: require("./assets/images/codechef.png"),
-      projectName: "Codechef",
+      projectName: "5* / yellow",
+      projectDesc:
+        "Highest Rating: 2053,  Top 15.0 percent among 600,000+ users",
       footerLink: [
         {
           name: "pi_3_14159265",
@@ -247,7 +245,9 @@ const problemSolving = {
     },
     {
       image: require("./assets/images/at.jpg"),
-      projectName: "Atcoder",
+      projectName: "Green",
+      projectDesc:
+        "Highest Rating: 815,  Top 45.0 percent among 600,000+ users",
       footerLink: [
         {
           name: "Roll_Num_44",
@@ -256,22 +256,14 @@ const problemSolving = {
       ]
     },
     {
-      image: require("./assets/images/leet.png"),
-      projectName: "Leetcode",
+      image: require("./assets/images/cppp.png"),
+      projectName: "Problems Solved",
+      projectDesc:
+        "Competitive Programming Problems(Algorithmic, Data Structure Based and Others)",
       footerLink: [
         {
-          name: "Roll_Num_44",
-          url: "https://leetcode.com/Roll_Num_44/"
-        }
-      ]
-    },
-    {
-      image: require("./assets/images/topcoder.png"),
-      projectName: "TopCoder",
-      footerLink: [
-        {
-          name: "Raihan12s",
-          url: "https://profiles.topcoder.com/Raihan12s"
+          name: "link",
+          url: "https://github.com/raihanulislam00/ProblemSolvingStats"
         }
       ]
     }
