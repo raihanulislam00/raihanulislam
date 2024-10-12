@@ -291,15 +291,15 @@ const achievementSection = {
       ]
     },
     {
-      title: "Top 16 percent in Meta Hacker Cup",
+      title: "Top 2 percent in Meta Hacker Cup",
       subtitle:
-        "International Rank of 6262th in Facebook Hacker Cup, 2023 among 35,000+ registrants",
+        "International Rank of 1170th in Facebook Hacker Cup, 2024 among 35,000+ registrants",
       image: require("./assets/images/meta.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/1bJKbPWinJ2EWXwFvp5XdIlAPGLi05aAF/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1jSL4C_lSecpiTV10RMOqX31nYSBrN-_f/view?usp=sharing"
         }
       ]
     },
