@@ -263,7 +263,7 @@ const problemSolving = {
       footerLink: [
         {
           name: "link",
-          url: "https://github.com/raihanulislam00/ProblemSolvingStats"
+          url: "https://clist.by/coder/Roll_Num_44/"
         }
       ]
     }
