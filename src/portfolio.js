@@ -304,6 +304,18 @@ const achievementSection = {
       ]
     },
     {
+      title: "ICPC World Finalist",
+      subtitle:
+        "Participated ICPC Asia Dhaka Regional Site Online Preliminary Contest in 2022 and 2024",
+      image: require("./assets/images/icpc.png"),
+      footerLink: [
+        {
+          name: "ICPC ID",
+          url: "https://icpc.global/private/person/957591/ICPCID"
+        }
+      ]
+    },
+    {
       title: "Problem Solving (HackerRank)",
       subtitle:
         "It covers topics of Data Structures (such as HashMaps, Stacks and Queues) and Algorithms (such as Optimal Solutions).",
