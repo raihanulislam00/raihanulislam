@@ -306,12 +306,12 @@ const achievementSection = {
     {
       title: "ICPC World Finalist",
       subtitle:
-        "Participated ICPC Asia Dhaka Regional Site Online Preliminary Contest in 2022 and 2024",
+        "Participated ICPC Asia Dhaka Regional Site Online Preliminary Contest in 2022 and 2025",
       image: require("./assets/images/icpc.png"),
       footerLink: [
         {
           name: "ICPC ID",
-          url: "https://icpc.global/private/person/957591/ICPCID"
+          url: "https://icpc.global/ICPCID/Z43P4LEAJXMN"
         }
       ]
     },
