@@ -221,9 +221,9 @@ const problemSolving = {
   projects: [
     {
       image: require("./assets/images/cf.png"),
-      projectName: "Green/Pupil",
+      projectName: "Cyan/Specialist",
       projectDesc:
-        "Highest Rating: 1319,  Top 33.0 percent among 600,000+ users",
+        "Highest Rating: 1400,  Top 26.0 percent among 600,000+ users",
       footerLink: [
         {
           name: "Roll_Num_44",
