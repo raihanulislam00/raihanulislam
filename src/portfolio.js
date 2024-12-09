@@ -161,13 +161,6 @@ const workExperiences = {
       desc: ""
     },
     {
-      role: "Campus Expert",
-      company: "Github",
-      companylogo: require("./assets/images/Git.png"),
-      date: "January 2024 – Present",
-      desc: ""
-    },
-    {
       role: "Campus Ambassador",
       company: "Hackules Inc.",
       companylogo: require("./assets/images/Hack.png"),
@@ -231,7 +224,7 @@ const problemSolving = {
         "Highest Rating: 2053,  Top 15.0 percent among 600,000+ users",
       footerLink: [
         {
-          name: "pi_3_14159265",
+          name: "roll_num_44",
           url: "https://www.codechef.com/users/roll_num_44"
         }
       ]
