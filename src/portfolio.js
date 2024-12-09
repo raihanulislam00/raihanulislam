@@ -154,13 +154,6 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Data Science & Analytics Intern",
-      company: "Zidio Development",
-      companylogo: require("./assets/images/zidio.jpg"),
-      date: "August 2024 – Present",
-      desc: ""
-    },
-    {
       role: "Student Ambassadors",
       company: "Microsoft",
       companylogo: require("./assets/images/mlsa.png"),
@@ -239,7 +232,7 @@ const problemSolving = {
       footerLink: [
         {
           name: "pi_3_14159265",
-          url: "https://www.codechef.com/users/pi_3_14159265"
+          url: "https://www.codechef.com/users/roll_num_44"
         }
       ]
     },
