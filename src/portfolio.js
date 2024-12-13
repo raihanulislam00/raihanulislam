@@ -209,7 +209,7 @@ const problemSolving = {
       image: require("./assets/images/cf.png"),
       projectName: "Cyan/Specialist",
       projectDesc:
-        "Highest Rating: 1400,  Top 26.0 percent among 600,000+ users",
+        "Highest Rating: 1514,  Top 26.0 percent among 600,000+ users",
       footerLink: [
         {
           name: "Roll_Num_44",
@@ -221,7 +221,7 @@ const problemSolving = {
       image: require("./assets/images/codechef.png"),
       projectName: "5* / yellow",
       projectDesc:
-        "Highest Rating: 2053,  Top 15.0 percent among 600,000+ users",
+        "Highest Rating: 2086,  Top 15.0 percent among 600,000+ users",
       footerLink: [
         {
           name: "roll_num_44",
@@ -233,7 +233,7 @@ const problemSolving = {
       image: require("./assets/images/at.jpg"),
       projectName: "Green",
       projectDesc:
-        "Highest Rating: 815,  Top 45.0 percent among 600,000+ users",
+        "Highest Rating: 1070,  Top 45.0 percent among 600,000+ users",
       footerLink: [
         {
           name: "Roll_Num_44",
