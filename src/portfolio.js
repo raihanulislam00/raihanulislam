@@ -290,7 +290,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "ICPC World Finalist",
+      title: "ICPC",
       subtitle:
         "Participated ICPC Asia Dhaka Regional Site Online Preliminary Contest in 2022 and 2025",
       image: require("./assets/images/icpc.png"),
