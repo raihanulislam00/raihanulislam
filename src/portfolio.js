@@ -31,7 +31,7 @@ const socialMediaLinks = {
   facebook: "https://www.facebook.com/raihanulislamnahid44",
   instagram: "https://www.instagram.com/raihanulislam00/",
   discord: "https://discord.com/users/1151562888931192832",
-  twitter: "https://twitter.com/raihanulislam00",
+  twitter: "https://twitter.com/roll_num_44",
   spotify:
     "https://open.spotify.com/user/31um5chgzfovahugm5vfqsbfjvri",
   blog: "https://raihanulislam00.github.io/home",
