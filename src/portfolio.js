@@ -659,7 +659,7 @@ const socialMediaConnections = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "raihanulislam00", //Replace "twitter" with your twitter username without @
+  userName: "roll_num_44", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
