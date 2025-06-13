@@ -224,8 +224,8 @@ const problemSolving = {
         "Highest Rating: 2174,  Top 15.0 percent among 600,000+ users",
       footerLink: [
         {
-          name: "roll_num_44",
-          url: "https://www.codechef.com/users/roll_num_44"
+          name: "raihan44",
+          url: "https://www.codechef.com/users/raihan44"
         }
       ]
     },
